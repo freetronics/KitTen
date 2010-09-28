@@ -4,7 +4,7 @@ Copyright 2010 Freetronics Pty Ltd
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-FIXME: description!
+FIXME: description! test
 
 Features:
 
