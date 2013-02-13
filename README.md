@@ -1,20 +1,23 @@
 Freetronics KitTen
-=============================
-Copyright 2010 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+==================
+Copyright 2010-2013 Freetronics Pty Ltd  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
-FIXME: description!
+A fully-featured Arduino-compatible board in kit form. Includes
+a high-rated voltage regulator and extensive filtering, plus a
+prototyping area.
 
 Features:
 
  * Prototyping area
  * Overlay guide where you need it (both top and bottom)
- * D13 pin works for everything
+ * D13 pin works for everything thanks to FET isolation
  * RX pin biased
  * Mounting holes and power pads
+ * R3 (revision 3) Arduino header format
 
-You can view more at our product page at:
+More information is available at:
 
   http://www.freetronics.com/kitten
 
