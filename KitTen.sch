@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -3893,8 +3893,8 @@ Standard 10-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 <wire x1="165.1" y1="36.83" x2="241.3" y2="36.83" width="0.1524" layer="94"/>
 <text x="45.72" y="8.382" size="1.778" layer="94">Draw your project schematic here</text>
 <text x="147.32" y="12.7" size="3.048" layer="94">Freetronics KitTen</text>
-<text x="215.9" y="6.858" size="1.778" layer="94">V2.0 (2013-02-14)</text>
-<text x="187.706" y="6.858" size="1.778" layer="94">SKU: FREE-KITTEN</text>
+<text x="215.9" y="6.858" size="1.778" layer="94">V2.1 (2014-09-01)</text>
+<text x="187.706" y="6.858" size="1.778" layer="94">SKU: KITTEN</text>
 <text x="147.066" y="6.858" size="1.778" layer="94">www.freetronics.com/kitten</text>
 <text x="7.62" y="143.51" size="1.778" layer="94">DC Regulated Power Supply (optional)</text>
 <text x="180.34" y="96.52" size="1.778" layer="94">ATmega328P DIP-28</text>

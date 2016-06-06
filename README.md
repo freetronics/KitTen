@@ -4,9 +4,8 @@ Copyright 2010-2013 Freetronics Pty Ltd
 Freetronics site:  www.freetronics.com  
 Freetronics email: info@freetronics.com  
 
-A fully-featured Arduino-compatible board in kit form. Includes
-a high-rated voltage regulator and extensive filtering, plus a
-prototyping area.
+A fully-featured Arduino-compatible board in kit form. Includes a
+voltage regulator and extensive filtering, plus a prototyping area.
 
 Features:
 
@@ -20,10 +19,6 @@ Features:
 More information is available at:
 
   http://www.freetronics.com/kitten
-
-The "docs" folder within this repository includes a handy copy of the
-schematic in PDF format, images of the pcb, and our Getting Started
-guide that ships with each board.
 
 
 INSTALLATION
